@@ -20,6 +20,10 @@ h3 {
     text-align: center;
 }
 
+h4 {
+    font-size: 3rem;
+}
+
 
 /* clases predefinidas */
 
@@ -85,6 +89,10 @@ header {
     background-position: center;
 }
 
+article {
+    background-color: rgb(227, 227, 227);
+}
+
 .flex {
     display: flex;
     align-items: center;
@@ -121,6 +129,36 @@ img {
     height: 70vh;
     background-size: cover;
     background-position: center;
+}
+
+#card-5 {
+    background-image: url(../img/duki.jpg);
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+}
+
+#card-6 {
+    background-image: url(../img/fucking\ lambo.jpg);
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+}
+
+#card-7 {
+    background-image: url(../img/myke\ towers.jpg);
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#prefooter {
+    background-color: #495057;
 }
 
 .padding {
